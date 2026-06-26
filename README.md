@@ -2,7 +2,7 @@
 
 ## 📌 Contexto
 
-Negocio real de hostelería con 10 años de actividad. Los socios necesitaban dejar de gestionar el negocio de forma intuitiva y tener una visión clara y centralizada de la evolución financiera y operativa: ventas, gastos, rentabilidad, aforo y productividad del personal.
+Negocio real de hostelería con 10 años de actividad. Los socios se plantean la opción de dejar de gestionar el negocio de forma intuitiva y tener una visión clara y centralizada de la evolución financiera y operativa: ventas, gastos, rentabilidad, aforo y productividad del personal. Nota: Este proyecto está realizado con datos sintetizados de los datos reales.
 
 ## 🎯 Objetivo
 
